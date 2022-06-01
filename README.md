@@ -1,16 +1,48 @@
-### Hi there 👋
+<h3>Olá, me chamo Matheus Jesuino !</h3><h3>Bem vindo ao meu perfil GitHub 👋 </h3></br>
 
-<!--
-**MatheusJesuino/MatheusJesuino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 26 anos, moro em Porto Alegre - RS, atualmente estudo programação no bootcamp da LABENU. Sou apaixonado por tecnologia e desafios, tentando sempre aprimorar minhas habilidades. Minha meta é conseguir crescer a cada dia e poder, de alguma forma, também contribuir com o crescimento das pessoas a minha volta. 
+<h2>
+Ferramentas e Tecnologias:<br>
+</h2> 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/><br><br/>
+
+<h2>Ainda estou Aprendendo:<br></h2>
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" /><img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="50"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" /><br><br/>
+
+
+
+<h2>Contatos:<br></h2>
+<div>
+<a href="https://www.instagram.com/mat.jesuino/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/devmatheusjesuino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<h2></div></h2></br>
+
+<div>
+
+
+<a href="https://https://github.com/MatheusJesuino">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusJesuino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+</div>
+
+
+
+
+       
+
+
+
+
+
+
+
+
+
+
+
+
