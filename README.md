@@ -1,6 +1,6 @@
 <h3>Olá, me chamo Matheus Jesuino !</h3><h3>Bem vindo ao meu perfil GitHub 👋 </h3></br>
 
-Tenho 26 anos, moro em Porto Alegre - RS, atualmente trabalho como desenvolvedor Front-end na SMTX,formado em Marketing e formado no Bootcamp Web Full Stack da Labenu. Sou apaixonado por tecnologia e desafios, tentando sempre aprimorar minhas habilidades. Minha meta é conseguir crescer a cada dia e poder, de alguma forma, também contribuir com o crescimento das pessoas a minha volta. 
+Tenho 26 anos, moro em Porto Alegre - RS, atualmente trabalho como desenvolvedor Front-end na SMTX, formado em Marketing e formado no Bootcamp Web Full Stack da Labenu. Sou apaixonado por tecnologia e desafios, tentando sempre aprimorar minhas habilidades. Minha meta é conseguir crescer a cada dia e poder, de alguma forma, também contribuir com o crescimento das pessoas a minha volta. 
 <h2>
 Ferramentas e Tecnologias:<br>
 </h2> 
